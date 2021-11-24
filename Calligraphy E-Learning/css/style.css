@@ -1,0 +1,102 @@
+.navbar-brand{
+    font-family:Dancing Script,cursive;
+    font-size: 25px;
+}
+
+.nav-item:hover{
+    background-color: rgba(252, 252, 252, 0.753);
+}
+
+.img-content{
+    position: absolute;  
+    top: 30%;
+    left:23%;
+    text-align: center;
+}
+.my-content{
+    font-family: Lovers Quarrel,cursive;
+    font-size: 4.7em;
+    color: rgb(26, 21, 23);
+}
+.card{
+    width: 20%;
+    display: inline-block;
+    box-shadow: 2px 2px 20px rgb(190, 108, 133);
+    border-radius: 5px; 
+    margin: 2%;
+}
+
+.image img{
+ width: 100%;
+ border-top-right-radius: 5px;
+ border-top-left-radius: 5px;
+ }
+
+.title{
+    text-align: center;
+    padding: 10px;
+}
+   
+   h1{
+    font-size: 1.7em;
+    font-family: Dancing script,cursive;
+   }
+   h2{
+       font-size: 2.5em;
+       font-family: Dancing Script ,cursive;
+   }
+   .stripe{
+        background-image: linear-gradient(90deg, rgb(182, 53, 96),rgb(122, 48, 77));
+        padding:2rem;
+        height: 13rem;
+        margin-top:2rem;
+        transform:rotate(8deg);
+        z-index: -5;
+        
+   }
+   h4{
+       font-family: Lovers Quarrel,cursive;
+       font-size: 50px;
+       color: white;
+   }
+   .col-md-4 p{
+       color: white;
+   }
+   .course .coursecontent{
+    border: 2px solid rgb(10, 10, 10);
+    color: black;
+    background-color: rgba(230, 213, 219, 0.671);
+    padding: 13px;
+    text-align: center;
+    margin-left: 28rem;
+    margin-top:-28rem;
+    position: absolute; 
+    display: inline-block;
+    font-family: Dancing Script, cursive;
+    font-size: 20px;
+}
+.paycontent{
+    position: absolute; 
+    text-align: center;
+    font-family:Dancing Script, cursive;
+    font-size: 25px;
+    margin-top: -24rem;
+    margin-left: 24rem;
+}
+#check .fas{
+    font-size: 23px;
+    color: white;
+    background-color: green;
+   
+}  
+#paytable{
+    margin-top: 4rem;
+    margin-left: 3rem;
+    width: 26rem;
+    border-color: rgb(13, 13, 14);
+}
+#print-button #btn{
+    background-color: rgba(0, 128, 128, 0.979);
+    color: white;
+    margin-left: 10rem;
+}
