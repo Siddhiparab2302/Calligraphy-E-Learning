@@ -82,5 +82,7 @@ Admin-List Of Student’s Payment Orders
 
 Admin-Student Queries
 ![image](https://user-images.githubusercontent.com/54452217/143268960-55c64053-408e-4d9a-b5a4-5c6758a58e95.png)
+
+If Admin Wants to change there Password,he can change there password in these page. 
 ![image](https://user-images.githubusercontent.com/54452217/143268992-75b9f237-2947-4607-a169-41679db082d3.png)
 
