@@ -1,4 +1,8 @@
+It is a php based project with bootstrap used as frontend, The main objective of this
+system is to host and track online learning.Providing a virtual hub where learners can access
+training resources.
 
+ScreenShots:-
 Home Page
 ![image](https://user-images.githubusercontent.com/54452217/143267215-792f96e5-e604-468e-8b11-0afdc056a5f2.png)
 
